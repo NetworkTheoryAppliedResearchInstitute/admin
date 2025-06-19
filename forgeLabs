@@ -1,90 +1,417 @@
-# FORGE LABS PROGRAM CHARTER (STREAMLINED)
+# FORGE LABS PROGRAM CHARTER
 **Network Theory Applied Research Institute, Inc.**
-
-## SECTION 1: MISSION AND TECHNICAL PHILOSOPHY
-
-### Program Mission
-Forge Labs creates the technical backbone enabling NTARI's community collaboration by building secure, reliable backend systems while demonstrating how passionate developers can create technology serving communities instead of exploiting them.
-
-### Educational Purpose Statement
-All Forge Labs activities serve educational purposes as defined by IRS 501(c)(3) regulations, providing hands-on training in ethical software development, open source collaboration, and community-centered technology design through building real systems serving actual communities.
-
-### Core Deliverables
-- Backend infrastructure: APIs, databases, and server systems supporting NTARI platforms
-- Security systems: Protection frameworks safeguarding user data while preserving autonomy
-- Integration tools: Technical bridges connecting NTARI systems with external platforms
-- Open source tools: Community-beneficial software released freely for cooperative organizations
-- Developer education: Training in building technology serving communities rather than extracting value
-
-### Technology Philosophy
-Forge Labs applies hacker ethic principles where passionate technical work serves human flourishing. We create systems that empower user control, support community self-determination, work for everyone across technological circumstances, and maintain transparency through community understanding and control.
-
-## SECTION 2: GOVERNANCE AND AUTHORITY
-
-### Program Leadership
-**Program Director**: Reports directly to NTARI Board of Directors per Bylaws Article IV, providing strategic oversight while exercising full operational authority within mission parameters. Scales technical operations and infrastructure development based on available resources and organizational priorities.
-
-**Technical Lead Volunteers**: Community members providing technical leadership for specific projects without governance authority, operating under Program Director oversight while maintaining creative autonomy.
-
-**NSP Integration**: Coordinates with NSP Program Director on infrastructure requirements and shared platform development, with Board resolving inter-program conflicts.
-
-### Authority Framework
-Program Director authority includes: developing technical architecture and infrastructure strategies, managing resources within Board-approved allocations, coordinating technical volunteers and contractors, establishing development standards and security protocols, releasing software under open source licenses, and scaling operations based on organizational growth.
-
-## SECTION 3: CORE DEVELOPMENT OPERATIONS
-
-### Technical Development
-- **Infrastructure Management**: Core backend systems including APIs, databases, authentication services, and deployment pipelines supporting NTARI platforms
-- **Security and Privacy**: Data protection protocols, encryption standards, and monitoring systems preserving user autonomy while ensuring system integrity
-- **Integration Development**: Technical bridges connecting NTARI systems with external platforms and standards for cooperative technology collaboration
-- **Open Source Development**: Community-beneficial software release with comprehensive documentation and community support
-
-### Community and Collaboration
-- **Developer Integration**: Onboarding processes, skill development pathways, and mentorship matching between experienced and newcomer developers
-- **Knowledge Management**: Technical documentation, architectural decisions, and knowledge sharing preserving expertise within cooperative development community
-- **Quality Assurance**: Peer code review, automated testing, security auditing, and performance monitoring ensuring technical excellence
-
-### NSP Coordination
-- **Infrastructure Support**: Backend development supporting NSP's community platforms and communication tools
-- **Technical Consultation**: Collaborative planning with NSP leadership for requirements gathering and integration support
-- **Shared Development**: Coordinated cycles for systems serving both programs with synchronized release management
-
-## SECTION 4: RESOURCE AND INFRASTRUCTURE FRAMEWORK
-
-### Scalable Development Model
-Forge Labs operates efficiently with current technical resources while maintaining infrastructure growth capacity. Priority allocation: (1) Core infrastructure stability and security, (2) NSP integration support and platform reliability, (3) Technical innovation and cooperative technology advancement, (4) Open source development and community contribution, (5) Experimental projects and emerging technology exploration.
-
-### Growth Integration Protocol
-Technical operations scale with organizational success through systematic expansion of infrastructure capabilities, enhanced security and performance systems, increased development capacity, and expanded open source contribution as resources become available through strategic growth.
-
-### Technical Standards
-Maintains appropriate standards for security and privacy protection, accessibility compliance, open source licensing and contribution practices, and ethical development principles prioritizing user autonomy and community benefit.
-
-## SECTION 5: OBJECTIVES AND PERFORMANCE METRICS
-
-### Core Objectives
-1. **Maintain Technical Infrastructure**: Consistent availability and performance of systems supporting NTARI's digital work with security protocols protecting user data
-2. **Support NSP and Organizational Success**: Responsive technical development supporting NSP community engagement and NTARI mission delivery
-3. **Advance Cooperative Technology Standards**: Develop technical approaches other cooperative organizations can adopt, contributing to open source projects strengthening community-serving technology
-4. **Build Ethical Developer Community**: Provide pathways for technical skill development aligned with cooperative values and mentorship in ethical development practices
-5. **Demonstrate Ethical Development Effectiveness**: Implement development practices prioritizing community benefit while delivering high-quality technical results
-
-### Success Metrics
-- **Technical Performance**: System reliability, security posture, development quality, NSP integration success
-- **Community Development**: Developer progression, collaborative development, cooperative behavior, open source impact
-- **Mission Alignment**: Cooperative technology advancement, educational value, sustainability demonstration, user autonomy enhancement
-
-### Compliance Framework
-All activities serve NTARI's 501(c)(3) educational purposes through cooperative software development training and ethical technology creation. Program operates within bylaws framework with Program Director accountability to Board and coordination with other programs.
-
-## AMENDMENT PROCESS
-
-Charter amendments require majority Board vote following technical community input and Program Director recommendation. Annual review occurs with strategic planning, considering technical performance, NSP integration effectiveness, technology landscape changes, and educational outcomes.
+*Updated Edition - Comprehensive Governance and Technical Framework*
 
 ---
 
-**Board Chair**: _____________________________ **Date**: __________
+## EXECUTIVE SUMMARY
+
+Forge Labs serves as NTARI's technical development program, advancing the organization's mission through protocol-first cooperative technology development. Operating with an annual budget of $186,073.80, Forge Labs develops the Agrinet agricultural coordination protocol and related cooperative infrastructure, demonstrating network theory applications in practice while serving NTARI's 501(c)(3) educational mission.
+
+This charter establishes governance framework, operational parameters, resource authority, and accountability measures for Forge Labs operations within NTARI's bylaws-compliant organizational structure.
+
+---
+
+## ARTICLE I: PROGRAM MISSION AND ALIGNMENT
+
+### Section 1.1: Core Mission Statement
+
+Forge Labs develops open-source protocols, systems, and infrastructure that enable effective online cooperation, with primary focus on the Agrinet agricultural coordination protocol. The program advances network theory applications through practical implementation of decentralized, community-controlled systems that serve as educational resources and public benefit tools.
+
+### Section 1.2: NTARI Mission Alignment
+
+Forge Labs directly implements NTARI's mission to "develop systems, protocols, and programs for online global cooperatives inspired by network theory" through:
+
+- **Protocol Development**: Creating the Agrinet "Linux for Agriculture" coordination system
+- **Educational Infrastructure**: Providing practical learning environments for cooperative technology
+- **Network Theory Application**: Demonstrating decentralized coordination principles in practice
+- **Community Empowerment**: Enabling local sovereignty through forkable, adaptable protocols
+
+### Section 1.3: 501(c)(3) Educational Purpose
+
+All Forge Labs activities serve charitable, educational, and scientific purposes by:
+
+- **Educational Content Delivery**: Hosting protocol specifications, developer documentation, and community learning resources
+- **Scientific Research**: Advancing post-quantum cryptography, federation protocols, and trust-based coordination systems
+- **Community Education**: Providing practical infrastructure for learning about cooperative technology development
+- **Public Benefit**: Creating tools that communities can use to organize more effectively without commercial exploitation
+
+---
+
+## ARTICLE II: ORGANIZATIONAL STRUCTURE AND GOVERNANCE
+
+### Section 2.1: Leadership Structure
+
+**Program Director**: Calvin serves as Forge Labs Program Director, providing strategic leadership and operational management within Board-approved parameters.
+
+**Agrinet Technical Lead**: Manages day-to-day infrastructure decisions, technical implementation, and development coordination within delegated authority.
+
+**Board Accountability**: Program Director reports quarterly to NTARI Board of Directors, ensuring alignment with organizational governance and mission requirements.
+
+### Section 2.2: Authority Framework
+
+#### Board of Directors Authority
+- Strategic oversight and annual budget approval
+- Charter approval and modification authorization
+- Policy establishment and compliance oversight
+- Major partnership and collaboration approval
+
+#### Program Director Authority (within approved parameters)
+- Operational management and resource allocation
+- Team coordination and project prioritization
+- Technical direction and development oversight
+- Community engagement and partnership development
+
+#### Technical Lead Authority (delegated by Program Director)
+- Daily infrastructure management and maintenance
+- Development environment coordination
+- Security implementation and monitoring
+- Community technical support and documentation
+
+### Section 2.3: Reporting and Accountability
+
+**Quarterly Reports**: Program Director submits comprehensive quarterly reports to Board including:
+- Technical development progress and milestones achieved
+- Resource utilization and budget variance analysis
+- Community engagement metrics and educational impact
+- Risk assessment and mitigation strategies
+- Upcoming priorities and resource needs
+
+**Annual Review**: Board conducts annual comprehensive review of Forge Labs performance, charter compliance, and strategic alignment with organizational mission.
+
+---
+
+## ARTICLE III: TECHNICAL SCOPE AND DEVELOPMENT FRAMEWORK
+
+### Section 3.1: Primary Development Focus
+
+#### Agrinet Protocol Development
+- **Core Protocol**: Development and maintenance of agricultural coordination protocol stack
+- **Modular Architecture**: Plan, PING, Market, and LBTAS component systems
+- **Cryptographic Infrastructure**: QC-MDPC McEliece post-quantum security implementation
+- **Federation Capabilities**: Cross-regional coordination and synchronization protocols
+
+#### Supporting Infrastructure
+- **Development Environments**: Testing, staging, and community development platforms
+- **Documentation Systems**: Protocol specifications, API documentation, and educational resources
+- **Community Platforms**: Collaboration tools, issue tracking, and developer engagement systems
+- **Security Framework**: Key management, authentication, and privacy protection systems
+
+### Section 3.2: Technical Philosophy and Principles
+
+#### Protocol-First Design
+- **Community Sovereignty**: Local control over data and governance without external dependencies
+- **Forkable Architecture**: Enable community adaptation and regional customization
+- **No Financial Barriers**: Access based on keys and permissions, not token ownership
+- **Educational Transparency**: Open-source development with comprehensive documentation
+
+#### Privacy and Security Standards
+- **Privacy by Design**: End-to-end encryption and user data sovereignty
+- **Post-Quantum Security**: McEliece cryptography for future-proof protection
+- **Minimal Data Collection**: Protocol design minimizes surveillance vectors
+- **Community Audit**: Open-source architecture enables security review
+
+### Section 3.3: Development Methodology
+
+#### Open Source Commitment
+- **GNU GPL Licensing**: Ensures continued community access and forkability
+- **Public Repositories**: GitHub-based development with transparent collaboration
+- **Community Participation**: Open contribution processes and developer engagement
+- **Educational Resources**: Comprehensive documentation for learning and implementation
+
+#### Federation and Decentralization
+- **Regional Autonomy**: Support for local node governance and customization
+- **Cross-Node Coordination**: Standardized protocols for voluntary federation
+- **Technical Sovereignty**: Communities control their infrastructure and policies
+- **Scalable Architecture**: Support for everything from local cooperatives to regional networks
+
+---
+
+## ARTICLE IV: RESOURCE ALLOCATION AND FINANCIAL FRAMEWORK
+
+### Section 4.1: Annual Budget Authority
+
+**Total Budget**: $186,073.80 annually, allocated as follows:
+- **Program Director Compensation**: $150,000 annually
+- **Technical Infrastructure**: $36,000 annually ($3,000 monthly for hardware/software)
+- **Collaboration Tools**: $73.80 annually (Confluence and related platforms)
+
+**AWS Grant Integration**: $1,000 annually in AWS credits (Grant #4291111) with strategic allocation framework detailed in AWS Nonprofit Credit Grant Policy.
+
+### Section 4.2: Spending Authority Framework
+
+#### Operational Spending Limits
+- **$0-250**: Technical Lead authority for routine infrastructure operations
+- **$251-500**: Program Director approval required for moderate expenditures
+- **$501-1000**: Board approval required for major infrastructure changes
+- **Above $1000**: Additional funding source approval and Board authorization required
+
+#### Special Approval Requirements
+- **Individual expenditures over $5,000**: Board approval regardless of budget category
+- **Multi-year commitments**: Board approval regardless of annual amount
+- **New budget categories**: Board approval for expenditures outside charter scope
+- **External partnerships**: Board approval for agreements affecting organizational resources
+
+### Section 4.3: AWS Credit Allocation Framework
+
+#### Primary Infrastructure (80% - $800)
+- **Core Protocol Development**: Testing environments, development platforms, staging systems
+- **Database and Storage**: MongoDB Atlas, S3 storage, backup and version control systems
+- **Security Infrastructure**: Key management, authentication testing, SSL/TLS certificates
+- **Federation Development**: API Gateway, Lambda functions, cross-regional coordination testing
+
+#### Community Development (15% - $150)
+- **Educational Content**: S3 hosting for documentation, tutorials, and community resources
+- **Collaboration Infrastructure**: CodeCommit repositories, automated documentation, community platforms
+- **Global Accessibility**: CloudFront distribution for worldwide educational resource access
+
+#### Research and Innovation (5% - $50)
+- **Experimental Development**: Sandbox environments for protocol feature testing
+- **Integration Testing**: External system integration and compatibility verification
+- **Advanced Research**: Blockchain logging, cross-field integration experiments
+
+### Section 4.4: Financial Monitoring and Controls
+
+#### Automated Controls
+- **CloudWatch Billing Alerts**: 50% ($500) warning, 75% ($750) escalation, 90% ($900) Board notification
+- **Spending Freeze Procedures**: Automatic review triggers and approval requirements for budget overruns
+- **Cost Optimization**: Regular resource utilization review and rightsizing requirements
+
+#### Reporting Requirements
+- **Monthly Financial Review**: Resource utilization tracking and budget variance analysis
+- **Quarterly Board Reports**: Comprehensive financial status and projection documentation
+- **Annual Budget Planning**: Strategic resource allocation planning and renewal preparation
+
+---
+
+## ARTICLE V: COMMUNITY ENGAGEMENT AND EDUCATIONAL FRAMEWORK
+
+### Section 5.1: Educational Mission Implementation
+
+#### Developer Education and Resources
+- **Protocol Documentation**: Comprehensive specifications for implementation and learning
+- **Development Tutorials**: Step-by-step guides for community developers
+- **Best Practices Documentation**: Security, federation, and governance implementation guidance
+- **Community Workshops**: Regular educational events and technical presentations
+
+#### Academic and Research Collaboration
+- **Research Partnership**: Collaboration with academic institutions on network theory applications
+- **Publication Support**: Contributing to peer-reviewed research on cooperative technology
+- **Conference Participation**: Presenting findings at academic and technical conferences
+- **Open Research Data**: Sharing anonymized insights about protocol effectiveness and adoption
+
+### Section 5.2: Community Participation Framework
+
+#### Developer Community Engagement
+- **Open Contribution Process**: Clear pathways for community code contributions
+- **Issue Tracking and Discussion**: Public forums for technical discussion and problem-solving
+- **Documentation Collaboration**: Community-driven improvement of educational resources
+- **Mentorship Programs**: Support for new developers learning cooperative technology development
+
+#### Regional Federation Support
+- **Implementation Guidance**: Technical support for communities deploying local Agrinet nodes
+- **Customization Documentation**: Resources for adapting protocols to local needs
+- **Federation Coordination**: Technical infrastructure for cross-regional cooperation
+- **Community Governance**: Resources for local democratic technology governance
+
+### Section 5.3: Public Benefit and Impact Measurement
+
+#### Educational Impact Metrics
+- **Developer Engagement**: Number of contributors, documentation downloads, and community participation
+- **Academic Integration**: Citations, research collaborations, and educational institution adoption
+- **Community Implementation**: Regional forks, local adaptations, and cooperative technology adoption
+- **Public Resource Access**: Global accessibility of educational materials and development tools
+
+#### Cooperative Technology Advancement
+- **Protocol Adoption**: Measurement of Agrinet implementation across communities
+- **Innovation Documentation**: Tracking community-driven improvements and adaptations
+- **Network Effect Analysis**: Research into coordination improvements and cooperative effectiveness
+- **Public Benefit Assessment**: Documentation of community empowerment and sovereignty advancement
+
+---
+
+## ARTICLE VI: COMPLIANCE AND GOVERNANCE INTEGRATION
+
+### Section 6.1: NTARI Bylaws Compliance
+
+#### Governance Structure Compliance
+- **Board Oversight**: Quarterly reporting and annual review as required by Article III
+- **Member Accountability**: Transparent reporting and community access to program updates
+- **Democratic Participation**: Charter modification process includes community input periods
+- **Conflict of Interest**: Disclosure procedures and recusal requirements for leadership decisions
+
+#### Educational Mission Alignment
+- **501(c)(3) Purpose**: All activities serve charitable, educational, and scientific purposes
+- **Public Benefit**: Protocol development serves community empowerment rather than commercial interests
+- **Non-Discrimination**: Universal access principles and inclusive community participation
+- **Transparency**: Open source development and public documentation requirements
+
+### Section 6.2: Data Protection and Privacy Compliance
+
+#### Article IX Implementation
+- **Privacy by Design**: Technical architecture minimizes surveillance and protects user sovereignty
+- **Data Minimization**: Protocol design collects minimal data necessary for coordination functionality
+- **User Rights**: Implementation of access, correction, export, and deletion capabilities
+- **Community Sovereignty**: Local nodes maintain complete control over their data and governance
+
+#### Privacy Officer Integration
+- **Secretary Oversight**: NTARI Secretary as Privacy Officer provides compliance monitoring
+- **Technical Review**: Regular assessment of protocol implementations against privacy standards
+- **Community Education**: Privacy protection education and user rights awareness
+- **Incident Response**: Clear procedures for privacy incidents and community notification
+
+### Section 6.3: Legal and Regulatory Compliance
+
+#### Intellectual Property Management
+- **GNU GPL Licensing**: Ensures continued community access and prevents proprietary capture
+- **Copyright Attribution**: Proper acknowledgment of community contributions and external resources
+- **Patent Protection**: Commitment to patent-free development and community protection
+- **Trademark Usage**: Appropriate use of NTARI and related organizational marks
+
+#### Grant and Funding Compliance
+- **AWS Terms Compliance**: Adherence to Nonprofit Credit Program requirements and restrictions
+- **Educational Use Documentation**: Verification that all resource usage serves educational purposes
+- **Financial Transparency**: Clear documentation of fund usage and organizational benefit
+- **Audit Readiness**: Maintenance of records and documentation for compliance verification
+
+---
+
+## ARTICLE VII: RISK MANAGEMENT AND SUSTAINABILITY
+
+### Section 7.1: Technical Risk Management
+
+#### Infrastructure Resilience
+- **Budget Overrun Prevention**: Automated monitoring and approval processes prevent unexpected costs
+- **Service Disruption Mitigation**: Backup procedures and alternative platform documentation
+- **Security Incident Response**: Clear procedures for security breaches and community notification
+- **Data Protection**: Backup and disaster recovery for all critical development resources
+
+#### Development Risk Mitigation
+- **Open Source Dependency**: Reduced vendor lock-in through open source architecture
+- **Community Sustainability**: Transition planning toward community-maintained infrastructure
+- **Documentation Preservation**: Comprehensive documentation ensures knowledge continuity
+- **Protocol Stability**: Careful versioning and backward compatibility maintenance
+
+### Section 7.2: Organizational Risk Management
+
+#### Governance Continuity
+- **Leadership Transition**: Clear succession planning and knowledge transfer procedures
+- **Board Integration**: Regular communication ensures organizational alignment
+- **Community Relations**: Transparent operations maintain community trust and support
+- **Mission Drift Prevention**: Regular mission alignment review and course correction
+
+#### Financial Sustainability
+- **Budget Planning**: Multi-year strategic planning for resource needs and availability
+- **Grant Diversification**: Development of multiple funding sources and sustainability strategies
+- **Cost Optimization**: Regular efficiency review and resource allocation optimization
+- **Community Investment**: Transition toward community-supported development and infrastructure
+
+### Section 7.3: Long-term Sustainability Framework
+
+#### Community Transition Strategy
+- **Infrastructure Templates**: Replicable deployment guides for community independence
+- **Technical Mentorship**: Knowledge transfer programs for community technical leadership
+- **Federation Development**: Support for community-to-community coordination without central dependency
+- **Educational Legacy**: Comprehensive documentation ensures continued learning resource availability
+
+#### Protocol Evolution
+- **Community Governance**: RFC-based protocol evolution with community participation
+- **Decentralized Development**: Transition from centralized to distributed development model
+- **Innovation Support**: Grant programs and resources for community-driven innovation
+- **Global Coordination**: Minimal coordination infrastructure for worldwide protocol coherence
+
+---
+
+## ARTICLE VIII: IMPLEMENTATION AND AMENDMENT FRAMEWORK
+
+### Section 8.1: Charter Implementation
+
+#### Immediate Implementation Requirements
+- **Board Approval**: Charter effective upon Board majority vote approval
+- **Community Publication**: Charter published for member review and community access
+- **Policy Integration**: Integration with existing NTARI policies and procedures
+- **Operational Transition**: Smooth transition from previous operational framework
+
+#### Quarterly Implementation Review
+- **Compliance Assessment**: Regular review of charter adherence and operational alignment
+- **Performance Evaluation**: Assessment of progress toward charter objectives and community benefit
+- **Resource Allocation Review**: Verification that resources serve charter purposes effectively
+- **Community Feedback Integration**: Regular incorporation of community input and suggestions
+
+### Section 8.2: Amendment Process
+
+#### Charter Modification Framework
+- **Program Director Initiative**: Program Director may propose charter amendments based on operational needs
+- **Community Input Period**: Minimum 14-day community review period for proposed amendments
+- **Board Review and Approval**: Board consideration and majority vote approval required for amendments
+- **Implementation Timeline**: Clear timeline for amendment implementation and operational integration
+
+#### Amendment Triggers
+- **Mission Evolution**: Changes in NTARI mission or strategic direction requiring program realignment
+- **Resource Changes**: Significant budget modifications or funding source changes
+- **Technical Development**: Major protocol developments requiring operational framework updates
+- **Compliance Requirements**: Legal or regulatory changes affecting program operations
+
+### Section 8.3: Performance Metrics and Success Criteria
+
+#### Quarterly Assessment Framework
+- **Technical Milestones**: Progress toward Agrinet protocol development and implementation goals
+- **Educational Impact**: Measurement of community learning, developer engagement, and resource utilization
+- **Community Benefit**: Assessment of cooperative technology advancement and public benefit delivery
+- **Organizational Integration**: Evaluation of program alignment with NTARI mission and strategic objectives
+
+#### Annual Strategic Review
+- **Mission Alignment**: Comprehensive assessment of program contribution to NTARI mission advancement
+- **Resource Efficiency**: Analysis of resource utilization effectiveness and optimization opportunities
+- **Community Impact**: Long-term evaluation of educational benefit and cooperative technology advancement
+- **Sustainability Planning**: Strategic planning for continued program effectiveness and community benefit
+
+---
+
+## ARTICLE IX: AUTHORIZATION AND APPROVAL
+
+### Section 9.1: Charter Authority
+
+This charter establishes the operational framework for Forge Labs within NTARI's governance structure, providing Program Director authority within defined parameters while ensuring Board oversight and member accountability as required by organizational bylaws.
+
+### Section 9.2: Approval Requirements
+
+**Board Approval**: This charter requires majority vote approval by NTARI Board of Directors to become effective operational policy.
+
+**Community Access**: Following Board approval, this charter shall be published for member access and community review through appropriate organizational channels.
+
+**Policy Integration**: This charter integrates with and operates under NTARI bylaws, organizational policies, and applicable legal requirements.
+
+### Section 9.3: Effective Date and Duration
+
+**Effective Date**: This charter becomes effective immediately upon Board approval and remains in effect until modified through the amendment process or replaced by Board action.
+
+**Review Schedule**: Annual comprehensive review with quarterly compliance assessment as specified in organizational governance framework.
+
+**Continuity**: Charter provisions continue in effect through leadership transitions unless specifically modified through proper amendment procedures.
+
+---
+
+## CERTIFICATION AND SIGNATURES
+
+**Program Director**: I certify that this charter accurately represents Forge Labs operational framework and commit to implementation within NTARI governance requirements.
+
+**Calvin** _____________________________ **Date**: __________
+*Forge Labs Program Director*
+
+**Board Approval**: This charter is approved by majority vote of the NTARI Board of Directors for implementation as organizational policy.
+
+**Chairman of the Board**: _____________________________ **Date**: __________
 
 **Secretary**: _____________________________ **Date**: __________
 
-**Program Director**: _____________________________ **Date**: __________
+---
+
+*This charter advances NTARI's mission to develop systems, protocols, and programs for online global cooperatives while ensuring responsible stewardship of resources, democratic accountability, and educational benefit for communities worldwide.*
+
+---
+
+**Document Version**: 2.0  
+**Last Updated**: [Current Date]  
+**Next Review**: [Annual Review Date]  
+**Public Access**: Available at https://ntari.org/forge-labs-charter
